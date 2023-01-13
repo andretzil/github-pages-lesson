@@ -1,5 +1,5 @@
 ---
-title: Welcome to Andre Til blog
+title: Welcome to Andre Tzil blog
 ---
 
 ## Hello
