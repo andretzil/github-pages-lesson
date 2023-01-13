@@ -1,7 +1,4 @@
 ---
-title: Welcome to Andre Tzil blog
+title: Welcome to my blog
 ---
 
-## Hello
-# This done on 13/01/2023
-Your home page is looking great! 🤠
